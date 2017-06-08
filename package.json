@@ -1,0 +1,16 @@
+{
+  "name": "disney tribute",
+  "version": "0.0.0",
+  "main": "server.js",
+  "author": "ErinLynn2181",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
